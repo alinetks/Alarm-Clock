@@ -1,0 +1,11 @@
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\bin\Debug\AlarmeTeste.exe.config
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\bin\Debug\AlarmeTeste.exe
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\bin\Debug\AlarmeTeste.pdb
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.csproj.AssemblyReference.cache
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.csproj.SuggestedBindingRedirects.cache
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.LayoutForm.resources
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.Properties.Resources.resources
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.csproj.GenerateResource.cache
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.csproj.CoreCompileInputs.cache
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.exe
+C:\Users\aline_alves\Desktop\projects c\AlarmeTeste\AlarmeTeste\obj\Debug\AlarmeTeste.pdb
